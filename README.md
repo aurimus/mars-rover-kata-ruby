@@ -6,5 +6,5 @@ this is console version
 `rover = Rover.new`
 
 rover methods:
-`.move(string)` ex. `rover.move('fflff')
+`.move(string)` ex. `rover.move('fflff')`
 `.reset` - resets to [0,0] N
